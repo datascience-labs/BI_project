@@ -25,14 +25,16 @@
 ### 탐지 과정
 ![image09](https://github.com/y00ns/BI_project/assets/104632673/8e6f9526-2649-413b-b4f1-cf8c55f9c33c)
 
-### 이상치 탐지 모델의 우수성
-![image05](https://github.com/y00ns/BI_project/assets/104632673/c1363cdb-65fa-4a0a-bcf1-534a82f8375b)
+### 사용 데이터
+![그림5](https://github.com/y00ns/BI_project/assets/104632673/5606b6a4-85c5-4d22-8b4e-9f30c9d61296)
+
+### 공격받은 데이터 생성
+![image06](https://github.com/y00ns/BI_project/assets/104632673/2247609b-ae4d-4ca1-a713-466b70e250c2)
 
 
 ### 탐지 결과
 ![화면 캡처 2024-03-04 132121](https://github.com/y00ns/BI_project/assets/104632673/31ae52f3-753b-430b-b6a3-b885743f3917)
 ![그림1](https://github.com/y00ns/BI_project/assets/104632673/2a1a75b3-542c-49af-a087-6912eeb87590)
-
 
 ## 이상치 탐지 모델의 활용
 ### 인공지능 반도체를 활용한 탐지 소형화
@@ -45,12 +47,10 @@
 - 알람 서비스 대시보드
 ![image14](https://github.com/y00ns/BI_project/assets/104632673/af254a9e-dd7c-4696-ad27-8812af8a4c37)
 
-
-## 사업화 방안 및 기대효과
-### 실현 가능성
+## 실현 가능성
 ![image15](https://github.com/y00ns/BI_project/assets/104632673/71fd6cf5-306a-4c83-9598-7c86caeca310)
 
-### 기대 효과
+## 기대 효과
 ![그림2](https://github.com/y00ns/BI_project/assets/104632673/819c92a0-ee70-4c11-941e-49ccb0e4c37c)
 
 
