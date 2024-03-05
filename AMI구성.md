@@ -1,3 +1,11 @@
+---
+layout: project
+title: BI_project/AMI구성
+project: BI_project
+repo: datascience-labs/BI_project
+permalink: /:path/:basename:output_ext
+---
+
 # AMI 구성
 ![image16](https://github.com/y00ns/BI_project/assets/104632673/f3087ec7-17c3-4642-8091-666213b398c5)
 - AMI는 크게 가정, 스마트 미터, DCU, 운영 센터로 구성됨.

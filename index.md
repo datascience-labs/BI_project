@@ -1,3 +1,11 @@
+---
+layout: project
+title: BI_project/
+project: BI_project
+repo: datascience-labs/BI_project
+permalink: /:path/:basename:output_ext
+---
+
 # 전력 데이터 보안 강화를 위해 AI 반도체에 탑재 가능한 이상치 탐지 AMI 모듈 제안
 ## 프로젝트 수행 기간
 2022.05.30 ~ 2022.08.08
